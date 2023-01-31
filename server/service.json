@@ -1,0 +1,10 @@
+{
+  "uid": "server",
+  "append": true,
+  "watch": true,
+  "script": "./index.js",
+  "sourceDir": "",
+  "logFile": "/home/cleanair/logs/log.log",
+  "outFile": "/home/cleanair/logs/out.log",
+  "errFile": "/home/cleanair/logs/err.log"
+}
